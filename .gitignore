@@ -97,3 +97,17 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+Assets/TextMesh Pro/Fonts/Fonts/Potta_One/PottaOne-Regular SDF.asset
+
+#font重すぎるだろなにこれ
+/[Aa]ssets/Font
+
+# 重いSDFフォント除外
+* SDF.asset
+
+# Unity
+Library/
+Temp/
+Obj/
+Build/
