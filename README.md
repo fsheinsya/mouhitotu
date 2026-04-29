@@ -1,0 +1,1 @@
+これはscriptableObjectを使用して作ったゲームです。
